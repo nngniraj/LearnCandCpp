@@ -1,0 +1,3 @@
+Name  = pius
+Age  = 23
+Salary  = 23000.00

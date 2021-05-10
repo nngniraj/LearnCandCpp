@@ -1,0 +1,3 @@
+Name  = Tanding
+Age  = 25
+Salary  = 100000.00

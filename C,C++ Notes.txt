@@ -1,0 +1,23 @@
+1. No return with no arguments.
+	ex. void addnum();
+
+2. No returntype with argument
+	ex. void addnnum(int a);
+
+3. Return Type with no argument.
+	ex. int addnum();
+
+4. Bot argument & returntype & return type.
+	ex. int addnum(int a);
+
+
+
+--------------------------POINTER--------------------------
+
+
+syntax: data type
+pointer name;
+int  *ptr
+ptr=address
+
+*ptr=value

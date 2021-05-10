@@ -1,0 +1,3 @@
+Name  = Manisha
+Age  = 12
+Salary  = 9000.00

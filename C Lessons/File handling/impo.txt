@@ -1,0 +1,7 @@
+angular
+mongodb
+spring security
+spring boot
+spring data
+spring jpa
+spring jdbc

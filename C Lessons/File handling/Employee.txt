@@ -1,0 +1,3 @@
+Name  = Superman
+Age  = 45
+Salary  = 4500.00
